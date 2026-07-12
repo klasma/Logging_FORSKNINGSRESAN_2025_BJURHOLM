@@ -1,0 +1,22 @@
+2026-07-12 13:58:26 Started replace_files.
+2026-07-12 13:58:26 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2025_BJURHOLM.
+2026-07-12 13:58:27 Processing.
+2026-07-12 13:58:27 Loading species.
+2026-07-12 13:58:30 Loading notifications from shape files.
+2026-07-12 13:58:30 Loading observations.
+2026-07-12 13:58:37 Adding observations to notifications.
+2026-07-12 13:58:47 Freeing memory.
+2026-07-12 13:58:47 Loading observation Excel dictionaries.
+2026-07-12 13:58:47 Processing logging notifications.
+2026-07-12 13:58:47 Generating observation maps.
+2026-07-12 14:02:47 Generating knärot maps.
+2026-07-12 14:02:53 Generating complaints.
+2026-07-12 14:02:58 Generating complaint letters.
+2026-07-12 14:03:03 Generating requests.
+2026-07-12 14:03:08 Generating request letters.
+2026-07-12 14:03:16 Saving notification information to Excel.
+2026-07-12 14:03:16 Saving list of notifications to json.
+2026-07-12 14:03:16 Copying species text document.
+2026-07-12 14:03:16 Saving observations to Excel.
+2026-07-12 14:03:21 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2025_BJURHOLM.
+2026-07-12 14:03:21 Pushing 1 repos.
