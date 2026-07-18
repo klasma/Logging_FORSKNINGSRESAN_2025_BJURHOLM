@@ -1,23 +1,23 @@
-2026-07-18 18:40:07 Started replace_files.
-2026-07-18 18:40:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2025_BJURHOLM.
-2026-07-18 18:40:14 Processing.
-2026-07-18 18:40:14 Loading species.
-2026-07-18 18:40:19 Loading notifications from shape files.
-2026-07-18 18:40:19 Loading observations.
-2026-07-18 18:40:30 Adding observations to notifications.
-2026-07-18 18:40:45 Freeing memory.
-2026-07-18 18:40:45 Loading observation Excel dictionaries.
-2026-07-18 18:40:46 Adding owners.
-2026-07-18 18:41:03 Processing logging notifications.
-2026-07-18 18:41:03 Generating observation maps.
-2026-07-18 18:47:03 Generating knärot maps.
-2026-07-18 18:47:16 Generating complaints.
-2026-07-18 18:47:28 Generating complaint letters.
-2026-07-18 18:47:39 Generating requests.
-2026-07-18 18:47:50 Generating request letters.
-2026-07-18 18:48:11 Saving notification information to Excel.
-2026-07-18 18:48:11 Saving list of notifications to json.
-2026-07-18 18:48:11 Copying species text document.
-2026-07-18 18:48:11 Saving observations to Excel.
-2026-07-18 18:48:23 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2025_BJURHOLM.
-2026-07-18 18:48:23 Pushing 1 repos.
+2026-07-18 19:08:07 Started replace_files.
+2026-07-18 19:08:07 Clearing repo C:\git\Logging_FORSKNINGSRESAN_2025_BJURHOLM.
+2026-07-18 19:08:14 Processing.
+2026-07-18 19:08:14 Loading species.
+2026-07-18 19:08:19 Loading notifications from shape files.
+2026-07-18 19:08:19 Loading observations.
+2026-07-18 19:08:30 Adding observations to notifications.
+2026-07-18 19:08:45 Freeing memory.
+2026-07-18 19:08:45 Loading observation Excel dictionaries.
+2026-07-18 19:08:46 Adding owners.
+2026-07-18 19:09:03 Processing logging notifications.
+2026-07-18 19:09:03 Generating observation maps.
+2026-07-18 19:15:03 Generating knärot maps.
+2026-07-18 19:15:15 Generating complaints.
+2026-07-18 19:15:27 Generating complaint letters.
+2026-07-18 19:15:37 Generating requests.
+2026-07-18 19:15:49 Generating request letters.
+2026-07-18 19:16:10 Saving notification information to Excel.
+2026-07-18 19:16:10 Saving list of notifications to json.
+2026-07-18 19:16:10 Copying species text document.
+2026-07-18 19:16:10 Saving observations to Excel.
+2026-07-18 19:16:22 Pushing repo C:\git\Logging_FORSKNINGSRESAN_2025_BJURHOLM.
+2026-07-18 19:16:22 Pushing 1 repos.
